@@ -9,4 +9,3 @@ echo "Which user is running this script: $USER"
 echo "Hostname: $HOSTNAME"
 echo "Process ID of current shell-script: $$"
 sleep 60
-echo "process ID of last baground command $!"
