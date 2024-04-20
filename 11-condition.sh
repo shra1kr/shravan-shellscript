@@ -7,3 +7,5 @@ then
 else
     echo  "Given is number $NUMBER less than 10"
 fi
+
+# Mathematical operations: -gt, -lt, -ge, -le, -eq
